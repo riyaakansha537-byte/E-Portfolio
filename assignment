@@ -1,0 +1,21 @@
+<!-- Assignments Section -->
+<section id="assignments">
+  <h2>Assignments</h2>
+  <div class="assignments">
+    <div class="assignment-card">
+      <h3>Assignment 1: Data Structures</h3>
+      <p>Implemented linked lists, stacks, and queues in Java with efficiency analysis.</p>
+      <a href="assignments/data-structures.pdf" target="_blank">View Submission</a>
+    </div>
+    <div class="assignment-card">
+      <h3>Assignment 2: Web Development</h3>
+      <p>Created a responsive portfolio site using HTML, CSS, and JavaScript.</p>
+      <a href="assignments/web-dev.pdf" target="_blank">View Submission</a>
+    </div>
+    <div class="assignment-card">
+      <h3>Assignment 3: Algorithms</h3>
+      <p>Designed and tested sorting algorithms with complexity comparisons.</p>
+      <a href="assignments/algorithms.pdf" target="_blank">View Submission</a>
+    </div>
+  </div>
+</section>
